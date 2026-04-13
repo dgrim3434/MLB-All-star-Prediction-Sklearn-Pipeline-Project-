@@ -101,7 +101,7 @@ These factors likely contribute to the gap between model predictions and actual 
 
 ## Project Context
 
-This is **Week 2 of a 52-week machine learning capstone series**, focused on:
+This is **Week 12 of a 52-week machine learning capstone series**, focused on:
 
 - Building **scikit-learn pipelines**
 - Understanding **model comparison and evaluation**
